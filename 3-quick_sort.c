@@ -14,7 +14,7 @@ void swap(int *array, int a, int b)
 	array[b] = tmp;
 }
 /**
- * L_Partition - Function with the Lomuto Partition Scheme.
+ * Lomuto_P - Function with the Lomuto Partition Scheme.
  * @array: The array.
  * @low: The lowest value.
  * @high: The maximum value.
